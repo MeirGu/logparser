@@ -1,0 +1,8 @@
+/.idea/*
+/.mvn/*
+/.git/*
+/target/*
+/*.iml
+/done/*
+/working/*
+/upload/*
